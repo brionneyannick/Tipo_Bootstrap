@@ -1,0 +1,36 @@
+.navbgcolor{
+  background-color: rgba(114, 1, 214, 0.41);
+}
+
+.btncolor{
+  background-color: rgb(166, 139, 215);
+  color: black;
+}
+
+.container{
+  margin-top :2em;
+}
+
+.letrasmoradas{
+  color: purple;
+}
+
+#primerbtn:hover{
+  background-color: rgba(114, 1, 214, 0.41);
+}
+
+.btncolor:hover{
+  background-color: rgba(114, 1, 214, 0.41);
+  color: white;
+}
+
+.conborde{
+  background-color: rgb(246, 246, 246);
+  border-color: white;
+  border-style: solid;
+  padding: 3%;
+}
+
+.row{
+  margin:0;
+}
